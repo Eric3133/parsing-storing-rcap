@@ -1,0 +1,25 @@
+{
+  "title": "The Beatles",
+  "beatles": [
+    {
+      "first_name": "John",
+      "last_name": "Lennon",
+      "date_of_birth": "09/10/1940"
+    },
+    {
+      "first_name": "Paul",
+      "last_name": "McCartney",
+      "date_of_birth": "18/06/1942"
+    },
+    {
+      "first_name": "George",
+      "last_name": "Harrison",
+      "date_of_birth": "25/02/1943"
+    },
+    {
+      "first_name": "Ringo",
+      "last_name": "Starr",
+      "date_of_birth": "07/07/1940"
+    }
+  ]
+}
