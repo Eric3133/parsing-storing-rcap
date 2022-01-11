@@ -1,4 +1,4 @@
-require 'open-uri'
-require 'nokogiri'
+require "open-uri"
+require "nokogiri"
 
-# Let's scrape recipes from http://www.epicurious.com
+# Let's scrape recipes from https://www.bbcgoodfood.com
